@@ -1,9 +1,9 @@
-******CTF Write-Up Repository******
+# CTF Write-Up Repository
 Welcome to the CTF Write-Up Repository! 🚩
 
 This GitHub repository serves as a comprehensive collection of Capture The Flag (CTF) challenges, solutions, and write-ups. Whether you're a seasoned cybersecurity enthusiast or a novice in the field, this repository aims to provide valuable insights, methodologies, and strategies employed to tackle various CTF challenges.
 
-****What's Inside?****
+## What's Inside?
 Structured Write-Ups: Dive into well-organized write-ups that dissect the challenges step by step. Each write-up includes detailed explanations, code snippets, and insights into the thought processes behind solving the challenges.
 
 **Varied Challenges:** Explore a diverse range of CTF challenges, covering topics such as cryptography, steganography, reverse engineering, web exploitation, and more. From beginner to advanced levels, there's something for everyone.
